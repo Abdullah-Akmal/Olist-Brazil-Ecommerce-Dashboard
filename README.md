@@ -31,8 +31,7 @@ The foundation of this project is a well-structured data model that connects mul
 - **Insights Tables**: orders per state, sellers per state  
 
 This schema ensures accurate relationships across fact tables (orders, items, payments, reviews) and dimension tables (customers, products, sellers, geography). It supports seamless analysis of sales, customer journeys, product performance, and delivery behavior.  
-
-*(Insert Data Model diagram here – e.g., `/images/Data Model.png`)*  
+ 
 
 ---
 
@@ -81,10 +80,3 @@ This schema ensures accurate relationships across fact tables (orders, items, pa
 - **Strategic Decisions**: Data-driven approach for expansion, marketing, and inventory planning.  
 
 ---
-
-
----
-
-## Preview
-- Data Model Diagram  
-- Dashboard Screenshots (Sales, Customer, Seller, Shipment, etc.)  
